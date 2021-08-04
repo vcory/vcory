@@ -14,3 +14,14 @@
 - 💬 Ask me about anything related to tech or gaming :video_game:.
 - 📫 How to reach me: You can find me on [![Twitter Badge](https://img.shields.io/badge/-@CoryVictoria-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/CoryVictoria)](https://twitter.com/CoryVictoria). Feel free to say hi 👋
 - ⚡ Fun fact: I absolutely :heart: :shark:s and have been fortunate enough to dive with quite a few different species including the bull shark!
+
+## &#x1f4c8; GitHub Stats
+
+<a href="https://github.com/vcory/vcory">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vcory&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+
+##
+
+
+![Vcory's github stats](https://github-readme-stats.vercel.app/api?username=vcory&count_private=true&theme=tokyonight&hide=contribs,prs)
