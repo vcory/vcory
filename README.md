@@ -12,7 +12,7 @@
 - 👯 I’m looking to collaborate on open source projects
 - 🤔 I’m looking for help with Tailwind CSS
 - 💬 Ask me about anything related to tech or gaming :video_game:.
-- 📫 How to reach me: You can find me on [![Twitter Badge](https://img.shields.io/badge/-@CoryVictoria-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/CoryVictoria)](https://twitter.com/CoryVictoria). Feel free to say hi 👋
+- 📫 How to reach me: You can find me on [![Twitter Badge](https://img.shields.io/badge/-@CoryVictoria-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/CoryVictoria)](https://twitter.com/CoryVictoria).Feel free to say hi 👋
 - ⚡ Fun fact: I absolutely :heart: :shark:s and have been fortunate enough to dive with quite a few different species including the bull shark!
 
 ## &#x1f4c8; GitHub Stats
@@ -25,3 +25,7 @@
 
 
 ![Vcory's github stats](https://github-readme-stats.vercel.app/api?username=vcory&count_private=true&theme=tokyonight&hide=contribs,prs)
+
+#### Profile Visits 
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=vcory.vcory)
