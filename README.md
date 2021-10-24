@@ -15,7 +15,7 @@
 - 📫 How to reach me: You can find me on [![Twitter Badge](https://img.shields.io/badge/-@CoryVictoria-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/CoryVictoria)](https://twitter.com/CoryVictoria) or [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/victoria-c-210640195/) or via email. Feel free to say hi 👋
 - ⚡ Fun fact: I absolutely :heart: :shark:s and have been fortunate enough to dive with quite a few different species including the bull shark!
 - :books: I'm currently reading Atomic Habits by James Clear.
-- 🎙️ Some great dev podcasts that I love to listen to: Code Newbie, Base.cs podcast & The Cynical Developer.
+- 🎙️ Some great dev/tech podcasts that I love to listen to: Code Newbie, Base.cs podcast, The Cynical Developer, Chips with everything & Mac Power Users.
 
 ## &#x1f4c8; GitHub Stats
 
