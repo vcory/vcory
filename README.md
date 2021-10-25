@@ -17,6 +17,15 @@
 - :books: I'm currently reading Atomic Habits by James Clear.
 - 🎙️ Some great dev/tech podcasts that I love to listen to: Code Newbie, Base.cs podcast, The Cynical Developer, Chips with everything & Mac Power Users.
 
+---
+
+🧰 Toolbox
+
+[Will add these at a later time]
+
+---
+
+
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/vcory/vcory">
