@@ -19,7 +19,6 @@
 - 🎧 While I code, I like to listen to: Freecodecamp radio or some Focus music on Spotify
 - 🪥 The blob of toothpaste on your toothbrush has a name - nurdle!
 - 🦈 The hammer on the hammerhead shark is called cephalofoil!
-- 🔥 The gunpowder that Guy Fawkes and his chums used would have done little damage to Parliament
 ---
 
 🧰 Toolbox
