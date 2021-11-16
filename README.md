@@ -19,6 +19,7 @@
 - 🎧 While I code, I like to listen to: Freecodecamp radio or some Focus music on Spotify
 - 🪥 The blob of toothpaste on your toothbrush has a name - nurdle!
 - 🦈 The hammer on the hammerhead shark is called cephalofoil!
+- 🐸 Newts have the ability to regenerate limbs, eyes, spinal cords, hearts, intestines, and upper and lower jaws!
 ---
 
 🧰 Toolbox
