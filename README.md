@@ -20,6 +20,7 @@
 - 🪥 The blob of toothpaste on your toothbrush has a name - nurdle!
 - 🦈 The hammer on the hammerhead shark is called cephalofoil!
 - 🐸 Newts have the ability to regenerate limbs, eyes, spinal cords, hearts, intestines, and upper and lower jaws!
+- The biggest slug in the United States is the Banana Slug; it can grow to be nearly a foot long!
 ---
 
 🧰 Toolbox
