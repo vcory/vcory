@@ -17,7 +17,6 @@
 - :books: I'm currently reading Atomic Habits by James Clear.
 - 🎙️ Some great dev/tech podcasts that I love to listen to: Code Newbie, Base.cs podcast, The Cynical Developer, Chips with everything & Mac Power Users.
 - 🎧 While I code, I like to listen to: Freecodecamp radio or some Focus music on Spotify
-- 🪥 The blob of toothpaste on your toothbrush has a name - nurdle!
 - 🦈 The hammer on the hammerhead shark is called cephalofoil!
 - 🐸 Newts have the ability to regenerate limbs, eyes, spinal cords, hearts, intestines, and upper and lower jaws!
 - The biggest slug in the United States is the Banana Slug; it can grow to be nearly a foot long!
